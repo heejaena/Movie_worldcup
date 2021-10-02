@@ -11,6 +11,7 @@ The first version is the terminal version, which can select values by only text.
 > #### 2. Pokemon_World_Cup
 * You can select Pokemon using Jupyter Notebook 
     - Choose from round 2 to 128 <br>
+    - `Pokemone WordCup.ipynb` and `data` folder should be in the same path in use.
 ```
     * As the game is played with the image files name in 'data' folder,
       you can do another tournament game if you change the pictures.
@@ -30,6 +31,7 @@ The first version is the terminal version, which can select values by only text.
 > #### 2. Pokemon_World_Cup
 * Jupyter Notebook으로 Pokemon을 선택 가능합니다.<br>
     - 2 ~ 128강에서 선택 가능 <br>
+    - 이용 시, `Pokemone WordCup.ipynb`랑 `data` 폴더가 같은 경로에 있으면 됩니다.
 ```
     * 'data'폴더에서 이미지의 파일명으로 게임이 진행되기 때문에 
       사진을 바꾸면 다른 토너먼트 진행이 가능합니다. 
